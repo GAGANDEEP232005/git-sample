@@ -1,2 +1,4 @@
 one in testing of one
-add another
+add another file to the folder and commit it
+add another file to the folder and commit it
+add another file to the folder and commit it
